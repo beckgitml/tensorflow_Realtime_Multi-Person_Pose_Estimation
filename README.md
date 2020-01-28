@@ -2,7 +2,7 @@
 
 This repo contains a new upgraded version of the **keras_Realtime_Multi-Person_Pose_Estimation** project. It is ready for the new Tensorflow 2.0.
 
-I added  a new model based on MobileNetV2 for mobile devices.
+I added a new model based on MobileNetV2 for mobile devices.
 You can train it from scratch in the same way as the CMU model. There is still room for performance improvement, like quantization training, which I will add as a next step.
 
 [Download](https://www.dropbox.com/s/gif7s1qlie2xftd/best_pose_mobilenet_model.zip?dl=1) the model and checkpoints.
